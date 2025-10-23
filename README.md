@@ -15,7 +15,6 @@
 - Stops testing a site once valid credentials are found.
 - Detects likely success by page changes or common words.
 - Saves analysis and attempt results to a local database.
-- Run button is disabled while the process runs. 
 
 ## Installation
 For Linux;
