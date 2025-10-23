@@ -57,3 +57,4 @@ After installation:
 ## Donate
 
 - **Bitcoin:** 14xsT25kcSZtRpxmE1GZnLJsPfCeG4cy1t
+- https://buymeacoffee.com/tolgasezer
